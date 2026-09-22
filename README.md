@@ -22,7 +22,7 @@ An interactive, browser-based analytics dashboard for exploring **4 years of min
 ### 1 · Clone / Download
 
 ```bash
-git clone https://github.com/your-username/energy-consumption-dashboard.git
+git clone github.com/mohdsahil00736/Household-Energy-Consumption.git
 cd energy-consumption-dashboard
 ```
 
