@@ -4,9 +4,8 @@ An interactive, browser-based analytics dashboard for exploring **4 years of min
 
 ---
 
-## 📸 Screenshots
+## 📸 Some Images
 
-> _Place your screenshots in a folder called `assets/` and update the paths below._
 
 | Executive Overview | Appliance Breakdown |
 |---|---|
