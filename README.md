@@ -1,6 +1,6 @@
 # ⚡ Household Energy Consumption Analytics Dashboard
 
-An interactive, browser-based analytics dashboard for exploring **4 years of minute-level household electricity data**. Built with **Streamlit**, **Pandas**, and **Plotly** — no machine-learning models, pure EDA and business metrics.
+An interactive, browser-based analytics dashboard for exploring **4 years of minute-level household electricity data**. Built with **Streamlit**, **Pandas**, and **Plotly** 
 
 ---
 
